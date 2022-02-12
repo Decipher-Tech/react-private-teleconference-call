@@ -1,1 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2022-02-12T09:08:10.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.50" version="16.5.6" etag="IyAbf879Zy-8hwy1pHAw" type="github"><diagram id="K828GgNepYjUdCqvPYFj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-12T09:42:20.573Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.50" etag="YSdVoJkXvovRDu_VpA_a" version="16.5.6" type="github">
+  <diagram id="K828GgNepYjUdCqvPYFj" name="Page-1">
+    <mxGraphModel dx="1346" dy="906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EyFVZGI-P3e24ZQPGTlP-1" value="Vertical Container" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="20" y="10" width="790" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="EyFVZGI-P3e24ZQPGTlP-2" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#6C767D;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" vertex="1" parent="EyFVZGI-P3e24ZQPGTlP-1">
+          <mxGeometry x="210" y="80" width="370" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="EyFVZGI-P3e24ZQPGTlP-4" value="Email address" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" vertex="1" parent="EyFVZGI-P3e24ZQPGTlP-1">
+          <mxGeometry width="260" height="40" relative="1" as="geometry">
+            <mxPoint x="220" y="130" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EyFVZGI-P3e24ZQPGTlP-5" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="EyFVZGI-P3e24ZQPGTlP-1">
+          <mxGeometry width="350" height="30" relative="1" as="geometry">
+            <mxPoint x="220" y="170" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EyFVZGI-P3e24ZQPGTlP-6" value="We&#39;ll never share your email with anyone else." style="fillColor=none;strokeColor=none;align=left;spacing=2;fontSize=12;fontColor=#999999;" vertex="1" parent="EyFVZGI-P3e24ZQPGTlP-1">
+          <mxGeometry width="260" height="30" relative="1" as="geometry">
+            <mxPoint x="220" y="200" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EyFVZGI-P3e24ZQPGTlP-7" value="Password" style="fillColor=none;strokeColor=none;align=left;fontSize=14;" vertex="1" parent="EyFVZGI-P3e24ZQPGTlP-1">
+          <mxGeometry width="260" height="40" relative="1" as="geometry">
+            <mxPoint x="220" y="230" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EyFVZGI-P3e24ZQPGTlP-8" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" vertex="1" parent="EyFVZGI-P3e24ZQPGTlP-1">
+          <mxGeometry width="350" height="30" relative="1" as="geometry">
+            <mxPoint x="220" y="270" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EyFVZGI-P3e24ZQPGTlP-9" value="Remember me" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=2;fillColor=#EDEDED;strokeColor=#999999;align=left;fontSize=14;fontColor=#000000;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;spacingTop=-2;gradientColor=#DEDEDE;" vertex="1" parent="EyFVZGI-P3e24ZQPGTlP-1">
+          <mxGeometry width="10" height="10" relative="1" as="geometry">
+            <mxPoint x="220" y="320" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EyFVZGI-P3e24ZQPGTlP-10" value="Sign in" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="EyFVZGI-P3e24ZQPGTlP-1">
+          <mxGeometry width="70" height="40" relative="1" as="geometry">
+            <mxPoint x="220" y="350" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EyFVZGI-P3e24ZQPGTlP-11" value="App login" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EyFVZGI-P3e24ZQPGTlP-1">
+          <mxGeometry x="364" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
